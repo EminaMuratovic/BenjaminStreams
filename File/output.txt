@@ -1,0 +1,2 @@
+neki string u fileu
+neki drugi
